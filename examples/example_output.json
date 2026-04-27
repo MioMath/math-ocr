@@ -1,0 +1,28 @@
+[
+  {
+    "page_index": 1,
+    "text": "1  Solve the inequality \\(x^2 - 5x + 6 < 0\\). [3]",
+    "has_figure": false,
+    "figure_bbox": null,
+    "figure_description": null
+  },
+  {
+    "page_index": 1,
+    "text": "2  The diagram shows the curve \\(y = x^3 - 4x + 1\\) intersecting the line \\(y = x + 3\\) at the points \\(A\\) and \\(B\\).",
+    "has_figure": true,
+    "figure_bbox": [0.12, 0.18, 0.52, 0.72],
+    "figure_description": "Graph of y = x^3 - 4x + 1 and y = x + 3 showing intersection points A and B",
+    "figure_source": "embedded",
+    "figure_png": "figures/fig_001_p1.png",
+    "figure_svg": "figures/fig_001_p1.svg",
+    "figure_width": 820,
+    "figure_height": 640
+  },
+  {
+    "page_index": 2,
+    "text": "(a)  Find the coordinates of \\(A\\) and \\(B\\). [4]\n(b)  Find the area of the region enclosed by the curve and the line. [5]",
+    "has_figure": false,
+    "figure_bbox": null,
+    "figure_description": null
+  }
+]
