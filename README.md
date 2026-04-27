@@ -7,6 +7,8 @@
 
 Turn math PDFs into structured JSON with LaTeX text **and cropped figure images**.
 
+![demo](demo/demo.gif)
+
 **What makes this different:** Every other tool (MinerU, Docling, Marker) re-renders figures as low-res screenshots. math-ocr uses IoU matching to extract the **original embedded images** from PDFs — full resolution, no quality loss. It also detects vector-path drawings (geometry, coordinate systems) that have no bitmap at all.
 
 ## Highlights
