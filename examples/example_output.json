@@ -1,26 +1,52 @@
 [
   {
-    "page_index": 1,
-    "text": "1  Solve the inequality \\(x^2 - 5x + 6 < 0\\). [3]",
+    "page_index": 0,
+    "text": "3 The coefficient of \\(x^4\\) in the expansion of \\(\\left(2x^2 + \\frac{k^2}{x}\\right)^5\\) is \\(a\\). The coefficient of \\(x^2\\) in the expansion of \\((2x - 1)^4\\) is \\(b\\).",
     "has_figure": false,
     "figure_bbox": null,
     "figure_description": null
   },
   {
-    "page_index": 1,
-    "text": "2  The diagram shows the curve \\(y = x^3 - 4x + 1\\) intersecting the line \\(y = x + 3\\) at the points \\(A\\) and \\(B\\).",
+    "page_index": 4,
+    "text": "",
     "has_figure": true,
-    "figure_bbox": [0.12, 0.18, 0.52, 0.72],
-    "figure_description": "Graph of y = x^3 - 4x + 1 and y = x + 3 showing intersection points A and B",
-    "figure_source": "embedded",
-    "figure_png": "figures/fig_001_p1.png",
-    "figure_svg": "figures/fig_001_p1.svg",
-    "figure_width": 820,
-    "figure_height": 640
+    "figure_bbox": [0.3008, 0.1008, 0.7516, 0.2676],
+    "figure_description": "A sector ABC of a circle with center A and radius r. Line BD is perpendicular to AC. Angle CAB is theta.",
+    "figure_source": "page_crop",
+    "figure_png": "figures/sector_diagram.png",
+    "figure_svg": "figures/sector_diagram.svg",
+    "figure_width": 857,
+    "figure_height": 482
   },
   {
-    "page_index": 2,
-    "text": "(a)  Find the coordinates of \\(A\\) and \\(B\\). [4]\n(b)  Find the area of the region enclosed by the curve and the line. [5]",
+    "page_index": 4,
+    "text": "The diagram shows a sector \\(ABC\\) of a circle with centre \\(A\\) and radius \\(r\\). The line \\(BD\\) is perpendicular to \\(AC\\). Angle \\(CAB\\) is \\(\\theta\\) radians.",
+    "has_figure": false,
+    "figure_bbox": null,
+    "figure_description": null
+  },
+  {
+    "page_index": 4,
+    "text": "(a) Given that \\(\\theta = \\frac{1}{3}\\pi\\), find the exact area of \\(BCD\\) in terms of \\(r\\). [3]",
+    "has_figure": false,
+    "figure_bbox": null,
+    "figure_description": null
+  },
+  {
+    "page_index": 8,
+    "text": "",
+    "has_figure": true,
+    "figure_bbox": [0.3008, 0.0992, 0.7384, 0.292],
+    "figure_description": "A graph showing a curve \\(y = (3x - 2)^{\\frac{1}{2}}\\) and a line \\(y = \\frac{1}{2}x + 1\\) intersecting at points A and B.",
+    "figure_source": "page_crop",
+    "figure_png": "figures/curve_line_intersection.png",
+    "figure_svg": "figures/curve_line_intersection.svg",
+    "figure_width": 833,
+    "figure_height": 548
+  },
+  {
+    "page_index": 8,
+    "text": "(a) Find the coordinates of \\(A\\) and \\(B\\). [4]",
     "has_figure": false,
     "figure_bbox": null,
     "figure_description": null
