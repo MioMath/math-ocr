@@ -264,7 +264,7 @@ The config file is `~/.math-ocr.json`:
 |----------|-------------|---------|
 | `MATH_OCR_API_KEY` | API key (falls back to `OPENAI_API_KEY`) | — |
 | `MATH_OCR_BASE_URL` | API endpoint (falls back to `OPENAI_BASE_URL`) | Gemini |
-| `MATH_OCR_MODEL` | Model to use | `gemini-2.5-flash-preview-05-20` |
+| `MATH_OCR_MODEL` | Model to use | `gemini-2.5-flash` |
 
 ### Python Config
 

@@ -10,7 +10,7 @@ class TestOCRConfig:
         config = OCRConfig()
         assert config.dpi == 150
         assert config.max_retries == 2
-        assert config.model == "gemini-2.5-flash-preview-05-20"
+        assert config.model == "gemini-2.5-flash"
 
     def test_env_override(self, monkeypatch):
         monkeypatch.setenv("MATH_OCR_API_KEY", "test-key-123")

@@ -30,7 +30,7 @@ class OCRConfig:
     # ── LLM Provider ──────────────────────────────────────────────
     api_key: str = ""
     base_url: str = "https://generativelanguage.googleapis.com/v1beta/openai"
-    model: str = "gemini-2.5-flash-preview-05-20"
+    model: str = "gemini-2.5-flash"
 
     # ── Streaming / Budget ────────────────────────────────────────
     max_tokens: int = 16384
